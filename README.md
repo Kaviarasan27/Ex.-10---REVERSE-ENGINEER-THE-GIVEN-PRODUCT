@@ -33,10 +33,13 @@
 ## Input:
 
 ### Output:
+![empd](https://github.com/user-attachments/assets/81a189d6-8770-4844-8c6c-ed298346f880)
+![unit 4 empd](https://github.com/user-attachments/assets/4f22f89c-4d6a-4bbc-8720-9b38f7b26a7d)
+![empd 4](https://github.com/user-attachments/assets/86308d1c-788d-4bb2-955b-ffb039256bc5)
 
 
-### Name:
-### Register Number:
+### Name:kaviarasan S B
+### Register Number:24901318
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
